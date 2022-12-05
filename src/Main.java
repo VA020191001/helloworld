@@ -10,9 +10,12 @@ public class Main {
         低头思故乡。
          */
             double money = 6.0;
+            int a = 100;
 
             System.out.println("Hello \n world!");
             System.out.println(money);
+            System.out.println(a);
+            System.out.println("hello");
 
         }
 
