@@ -17,6 +17,7 @@ public class Main {
             System.out.println(a);
             System.out.println("hello");
             System.out.println("你好java");
+            System.out.println("必须转型测试开发");
 
         }
 
