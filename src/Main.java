@@ -16,7 +16,7 @@ public class Main {
             System.out.println(money);
             System.out.println(a);
             System.out.println("hello");
-            System.out.println("enen");
+            System.out.println("你好java");
 
         }
 
