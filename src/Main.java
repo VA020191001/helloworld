@@ -15,7 +15,7 @@ public class Main {
         System.out.println("两个数的和是："+sum);
 
         printInfo();
-
+        System.out.println("hello world");
         }
 
         //两个数求和
